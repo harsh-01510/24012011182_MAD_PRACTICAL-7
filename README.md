@@ -1,4 +1,4 @@
-# MAD_24172022034_Practical-7:SQLite and JSON Practical
+# MAD_24012011182_Practical-7:SQLite and JSON Practical
 
 This Android application demonstrates how to retrieve person data in JSON format from an internet API and store the retrieved data in an SQLite database.
 
